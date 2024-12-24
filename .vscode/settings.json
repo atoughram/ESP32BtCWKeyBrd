@@ -6,5 +6,6 @@
         "esp32-hal-spi.h": "c",
         "i2c.h": "c"
     },
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "idf.portWin": "COM3"
 }

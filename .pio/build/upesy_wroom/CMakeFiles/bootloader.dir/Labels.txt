@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader-complete.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/jim/ESP_Projects/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/CMakeFiles/bootloader-complete.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/atoug/Documents/GitHub/ESP32BtCWKeyBrd/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
